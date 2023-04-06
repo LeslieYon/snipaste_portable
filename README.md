@@ -1,3 +1,3 @@
 # snipaste_portable
 ## known issues
-* boot on start not working
+* start on boot not working
